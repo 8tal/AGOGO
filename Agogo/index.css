@@ -1,0 +1,32 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(74,206,150) ;
+}
+button{
+    margin-right: 95px;
+    background-color:rgb(74,206,150);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.chrono{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 40%;
+}
+.texte{
+  display: flex;
+  justify-content: center;
+  color: white;  
+}
+hr{
+    
+}
